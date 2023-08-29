@@ -1,6 +1,7 @@
 #!/bin/bash
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School"
 =======
 echo "ALX School is so cool!"
@@ -8,3 +9,6 @@ echo "ALX School is so cool!"
 =======
 echo "ALX School is so cool!"
 >>>>>>> main
+=======
+echo "ALX School is so cool!"
+>>>>>>> 26c9976 (Hot fix)
