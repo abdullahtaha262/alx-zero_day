@@ -1,24 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 95d8e61 (How to be up to date in git)
 echo "ALX School"
-=======
-echo "ALX School is so cool!"
->>>>>>> main
-<<<<<<< HEAD
-=======
-echo "ALX School is so cool!"
->>>>>>> main
-=======
-echo "ALX School is so cool!"
->>>>>>> 26c9976 (Hot fix)
-=======
-echo "ALX School"
->>>>>>> ed5a48c (My personal work)
-=======
->>>>>>> 95d8e61 (How to be up to date in git)
